@@ -1,4 +1,5 @@
 # MathHelfer
+![logo of MathHelfer](http://sevenuc.com/images/MathHelfer/logo.png) <br>
 an ultra lightweight word processor that provides a quick way to write well formatted science article.
 http://sevenuc.com/en/MathHelfer.html<br>
 http://github.com/chengdu/MathHelfer<br>
